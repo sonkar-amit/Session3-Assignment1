@@ -1,0 +1,14 @@
+.third-table
+{
+    margin:20px auto auto auto;
+    border: 1px solid black;
+    width: 300px;
+}
+.external-column-style
+{
+     border: 1px solid black;
+}
+.imp-style
+{
+    font-weight: bold;
+}
